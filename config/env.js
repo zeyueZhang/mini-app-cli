@@ -1,0 +1,1 @@
+export const dev = __wxConfig.envVersion !== "release" && __wxConfig.envVersion !=="trial";
